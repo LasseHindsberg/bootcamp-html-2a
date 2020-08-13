@@ -2,7 +2,7 @@
 @import './article-figure.css';
 @import './article-section-stuff.css';
 @import './article-byline.css';
-@import './aticle-article.css';
+@import './article-article.css';
 
 .mainArticle {
 	display: grid;
