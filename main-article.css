@@ -1,5 +1,7 @@
 @import './article-header.css';
 @import './article-figure.css';
+@import './article-section-stuff.css';
+
 
 .mainArticle {
 	display: grid;
