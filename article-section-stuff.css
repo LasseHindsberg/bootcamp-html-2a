@@ -1,15 +1,25 @@
+/* h2 {
+    position: relative;
+}
+
+h2::after {
+    position: absolute;
+    border-bottom: dotted hsl(0, 0, 16) 1px;
+    width: 100%;
+} */
+
 .mainArticle__newsSection{
     grid-area: newssection;
     color: rgb(255, 0, 0);
     font-size: 0.93em;
     /* padding-bottom: 10px; */
-    /* border-bottom: solid hsl(0, 0, 16%) 1px; */
+    border-bottom: solid hsl(0, 0, 16%) 1px;
 }
 
 .mainArticle__colophon{
     grid-area: colophon;
     font-size: 0.93em;
-    /* border-bottom: dotted hsl(0, 0, 16%) 2px; */
+    border-bottom: dotted hsl(0, 0, 16%) 2px;
 }
 
 .mainArticle__commentCount{

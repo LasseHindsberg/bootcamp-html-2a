@@ -1,0 +1,4 @@
+.mainArticle__article {
+    grid-area: content;
+    font-size: 0.93em;
+}
