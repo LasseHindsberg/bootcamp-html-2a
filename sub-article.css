@@ -1,0 +1,10 @@
+.subArticle {
+    display: grid;
+	grid-template-rows: auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+    'subColophon . . subColophon__secondary'
+    'recommend recommend recommend recommend'
+    'subColophon_third . . subColophon_fourth'
+    'LatestNews frontPage frontPage frontPage';
+}
