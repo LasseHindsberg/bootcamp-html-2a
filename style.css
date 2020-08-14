@@ -1,2 +1,6 @@
 @import './main-article.css';
 @import './sub-article.css';
+
+.main__gap {
+    height: 150px;
+}
