@@ -15,3 +15,7 @@
 											 "byline content content content"
 											 " . readMore readMore readMore";
 }
+
+article {
+	position: relative;
+}
