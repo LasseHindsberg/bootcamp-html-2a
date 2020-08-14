@@ -3,13 +3,15 @@
 @import './article-section-stuff.css';
 @import './article-byline.css';
 @import './article-article.css';
+@import 'article-readMore.css';
 
 .mainArticle {
 	display: grid;
-	grid-template-rows: repeat(4, auto);
+	grid-template-rows: repeat(5, auto);
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-areas: ". teaser teaser teaser"
 											 "cover cover cover cover"
 											 "newssection colophon colophon commentcount"
-											 "byline content content content";
+											 "byline content content content"
+											 " . readMore readMore readMore";
 }
