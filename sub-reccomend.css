@@ -1,0 +1,5 @@
+.subArticle__recommended {
+    display: flex;
+    grid-area: recommend;
+    justify-items: stretch;
+}

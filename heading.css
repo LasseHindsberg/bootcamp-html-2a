@@ -4,7 +4,12 @@
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.readMore_heading {
+.readMore__heading {
 	font-size: 1.2em;
 	text-align: center;
+}
+
+.recommended__heading {
+	font-size: 0.93em;
+	font-weight: bold;
 }

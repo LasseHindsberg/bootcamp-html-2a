@@ -4,4 +4,5 @@
 
 .subArticle__colophonSecondary {
     grid-area: subColophon__secondary;
+    justify-content: space-evenly;
 }
