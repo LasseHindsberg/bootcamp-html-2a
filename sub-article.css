@@ -1,3 +1,6 @@
+@import './sub-colophon.css';
+
+
 .subArticle {
     display: grid;
 	grid-template-rows: auto;

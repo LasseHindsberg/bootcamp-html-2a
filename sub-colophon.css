@@ -1,0 +1,7 @@
+.subArticle__colophon {
+    grid-area: subColophon;
+}
+
+.subArticle__colophonSecondary {
+    grid-area: subColophon__secondary;
+}
